@@ -21,5 +21,11 @@ namespace Fibonacci
             return Fibonacci(n-1) + Fibonacci(n-2);
         }
 
+        class Elem
+        {
+            int Sorszam;
+            long Érték;
+        }
+        List elemek = new List(Elem)
     }
 }

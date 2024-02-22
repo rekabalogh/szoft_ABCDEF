@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{0BEC1BEC-4119-4540-B0AF-4A4FEB8DFE3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal háromszög", "Pascal háromszög\Pascal háromszög.csproj", "{C904B66B-25EA-4491-A862-9C801D16EB2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0BEC1BEC-4119-4540-B0AF-4A4FEB8DFE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEC1BEC-4119-4540-B0AF-4A4FEB8DFE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEC1BEC-4119-4540-B0AF-4A4FEB8DFE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C904B66B-25EA-4491-A862-9C801D16EB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C904B66B-25EA-4491-A862-9C801D16EB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C904B66B-25EA-4491-A862-9C801D16EB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C904B66B-25EA-4491-A862-9C801D16EB2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
